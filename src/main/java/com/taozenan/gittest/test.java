@@ -16,6 +16,6 @@ public class test {
 
     public  void  testMethod(){
         System.out.println("test1ddd");
-        System.out.println("test1");
+        System.out.println("dev");
     }
 }
