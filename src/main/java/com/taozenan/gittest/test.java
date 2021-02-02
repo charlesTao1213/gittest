@@ -15,7 +15,12 @@ package com.taozenan.gittest;
 public class test {
 
     public  void  testMethod(){
+
         System.out.println("master");
         System.out.println("test1");
+
+        System.out.println("test1ddd");
+        System.out.println("dev");
+
     }
 }
